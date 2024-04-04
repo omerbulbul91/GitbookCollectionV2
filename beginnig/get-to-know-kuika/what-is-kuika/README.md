@@ -1,0 +1,7 @@
+# What is Kuika?
+
+[**Kuika**](https://www.kuika.com/) is a **Low-code** platform enabling you to develop **mobile and/or web** applications. Kuika offers different views such as [**UI Design**](https://manual.kuika.com/ui-design/explore-ui-design-mode),[ **Datasources**](https://manual.kuika.com/data-sources/explore-datasources-mode), [**Process Automation**](https://manual.kuika.com/process-automation/process-automation), [**Email Builder**](https://manual.kuika.com/add-notifications/use-email-builder), [**Report Designer,** ](https://manual.kuika.com/report-designer/report-designer)[**Scheduled Jobs**](https://manual.kuika.com/scheduled-jobs/scheduled-jobs),[ **API Builder**](https://manual.kuika.com/api-builder/api-builder), [**Configuration Manager**](https://manual.kuika.com/create-your-application/what-is-config-manager) and [**Helpdesk** ](https://manual.kuika.com/beginning/learn-the-app-development-process-on-kuika/get-help-with-helpdesk)to assist you in the development process.
+
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>What 2</td><td></td><td></td><td><a href="design.md">design.md</a></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr></tbody></table>
